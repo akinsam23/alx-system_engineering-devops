@@ -1,4 +1,7 @@
 0-current_working_directory file will print the 'current working directory'
 
 1-listit file  is for printing the 'contents' of the current working directory
+
 The 2-bring_me_home file is to change the working directory to the users home directory
+
+The 3-listfiles file is for listing the current directory contents in a long format which show what can be done for each file.
