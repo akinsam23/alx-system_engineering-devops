@@ -8,3 +8,4 @@ The 3-listfiles file is for listing the current directory contents in a long for
 The 4-listmorefiles is for listing all files including hidden ones
 The file 5-listfilesdigitonly is for displaying content directory with user and group IDs displayed numerically
 The 6-firstdirectory file is for creating a directory in the tmp folder
+The 7-movethatfile is to move the betty file to the my_first_directory folder
