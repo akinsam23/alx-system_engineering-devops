@@ -5,3 +5,4 @@
 The 2-bring_me_home file is to change the working directory to the users home directory
 
 The 3-listfiles file is for listing the current directory contents in a long format which show what can be done for each file.
+The 4-listmorefiles is for listing all files including hidden ones
