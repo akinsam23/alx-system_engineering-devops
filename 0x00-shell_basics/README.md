@@ -15,3 +15,7 @@ The 6-firstdirectory file is for creating a directory in the tmp folder
 The 7-movethatfile is to move the betty file to the my_first_directory folder
 
 Created the 8-firstdelete for deleting the betty file from /tmp/
+
+Created 9-firstdirdeletion file which contains the code for deleting a directory
+
+Created the 10-back file which contains the code for going back to the previous directory
