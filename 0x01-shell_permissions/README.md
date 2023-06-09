@@ -24,4 +24,6 @@ This readme file is for all the shell permissions  code in this directory
 
 11- Created the 11-directories_permissions file that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users using the command chmod -R a+x */
 
-12- Created the 12-directory_permissions file that creates a directory called my_dir with permissons 751 in the working directory 
+12- Created the 12-directory_permissions file that creates a directory called my_dir with permissons 751 in the working directory
+
+13- Created a cript that changes the group owner to school for the file hello
