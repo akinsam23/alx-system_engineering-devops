@@ -14,4 +14,6 @@ This readme file is for all the shell permissions  code in this directory
 
 6-Created a script that adds execute permission to the owner and the group owner, and read permission to other users to the file hello.
 
-7- Created a s script that adds execute permissions to the owner, group and others for the file hello 
+7- Created a s script that adds execute permissions to the owner, group and others for the file hello
+
+8- Created the 8-james_bond file for giving the permisson to read write and execute to only the others group using the chmod 007 hello command
