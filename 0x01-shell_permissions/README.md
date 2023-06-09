@@ -1,2 +1,15 @@
 This readme file is for all the shell permissions  code in this directory
-Created the 1-who_am_i file that contains the code for printing the effective username of the current user of a file
+
+0- Created a script '0-iam_bety' that switches the current user to the user betty using the command  'su betty'.
+
+1- Created the 1-who_am_i file that contains the code for printing the effective username of the current user of a file.
+
+2- Created script or bash file that prints all the groups the current user is part of using the command 'groups'.
+
+3- Created a script that changes the owner of a file hello to the user betty using the code 'su chown hello betty'.
+
+4-Created a script that creates an empty file called hello using the command 'touch hello'
+
+5-Created a script that adds execute permission to the owner of the file hello using the command 'chmod u+x hello'
+
+6-Created a script that adds execute permission to the owner and the group owner, and read permission to other users to the file hello. 
