@@ -17,3 +17,5 @@ This readme file is for all the shell permissions  code in this directory
 7- Created a s script that adds execute permissions to the owner, group and others for the file hello
 
 8- Created the 8-james_bond file for giving the permisson to read write and execute to only the others group using the chmod 007 hello command
+
+9- Created the 9-John_Doe file for giving permission to rwxr-x-wx permission to the hello file - tis means that chmod 753 hello
