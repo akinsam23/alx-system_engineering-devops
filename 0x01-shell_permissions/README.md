@@ -19,3 +19,5 @@ This readme file is for all the shell permissions  code in this directory
 8- Created the 8-james_bond file for giving the permisson to read write and execute to only the others group using the chmod 007 hello command
 
 9- Created the 9-John_Doe file for giving permission to rwxr-x-wx permission to the hello file - tis means that chmod 753 hello
+
+10 Created the 10-mirror_permission file that mirrors the permission of the olleh file to the hello file - this is done using the 'chmod stat -c olleh hello' command 
