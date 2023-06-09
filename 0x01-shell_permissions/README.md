@@ -20,4 +20,6 @@ This readme file is for all the shell permissions  code in this directory
 
 9- Created the 9-John_Doe file for giving permission to rwxr-x-wx permission to the hello file - tis means that chmod 753 hello
 
-10 Created the 10-mirror_permission file that mirrors the permission of the olleh file to the hello file - this is done using the 'chmod stat -c olleh hello' command 
+10 Created the 10-mirror_permission file that mirrors the permission of the olleh file to the hello file - this is done using the 'chmod stat -c olleh hello' command
+
+11- Created the 11-directories_permissions file that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users using the command chmod -R a+x */ 
