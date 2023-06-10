@@ -25,3 +25,5 @@ Created the 101-clean_emacs which contains the code for deleting all files in th
 Created the 102-tree file which contains the code for creating the directory welcome/to/school in the current directory using the code 'mkdir welcome/to/school'
 
 Created the 013-tree file which contains the coded for creating the a list of all files and directories of the current directory, seperated by commas. Using the code 'ls -map'
+
+Created the school.mgc file that can be used to detect school data files.
