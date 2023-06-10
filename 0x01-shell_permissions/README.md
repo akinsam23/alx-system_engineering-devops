@@ -27,3 +27,5 @@ This readme file is for all the shell permissions  code in this directory
 12- Created the 12-directory_permissions file that creates a directory called my_dir with permissons 751 in the working directory
 
 13- Created a cript that changes the group owner to school for the file hello
+
+14- Created a script that moves all the files beginning with an uppercase letter to the directory using the code 'mv [[:upper:]]* /tmp/u'
