@@ -19,3 +19,5 @@ Created the 8-firstdelete for deleting the betty file from /tmp/
 Created 9-firstdirdeletion file which contains the code for deleting a directory
 
 Created the 10-back file which contains the code for going back to the previous directory
+
+Created the 101-clean_emacs which contains the code for deleting all files in the current working diretory that ends with the character '~'.
