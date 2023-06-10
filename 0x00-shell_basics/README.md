@@ -23,3 +23,5 @@ Created the 10-back file which contains the code for going back to the previous 
 Created the 101-clean_emacs which contains the code for deleting all files in the current working diretory that ends with the character '~'.
 
 Created the 102-tree file which contains the code for creating the directory welcome/to/school in the current directory using the code 'mkdir welcome/to/school'
+
+Created the 013-tree file which contains the coded for creating the a list of all files and directories of the current directory, seperated by commas. Using the code 'ls -map'
