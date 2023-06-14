@@ -29,3 +29,5 @@ This readme file is for all the shell permissions  code in this directory
 13- Created a cript that changes the group owner to school for the file hello
 
 14- Created a script that moves all the files beginning with an uppercase letter to the directory using the code 'mv [[:upper:]]* /tmp/u'
+
+15- Created a script that changes the file owner and group owner of all files and directory in a folder from vincent to staff using the code 'chown -R vincent:staff ./*'
