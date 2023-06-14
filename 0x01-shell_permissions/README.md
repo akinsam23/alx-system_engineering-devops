@@ -32,5 +32,5 @@ This readme file is for all the shell permissions  code in this directory
 
 15- Created a script that changes the file owner and group owner of all files and directory in a folder from vincent to staff using the code 'chown -R vincent:staff ./*'
 
-16- Created a script that changes the file owner and the owner and group owner of _hello to vincent and staff using the code 'chown vincent:staff _hello'
+16- Created a script that changes the file owner and the owner and group owner of _hello to vincent and staff using the code 'chown -h vincent:staff _hello'
 
