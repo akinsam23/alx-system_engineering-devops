@@ -12,3 +12,5 @@ Task 3-path- Created a script that counts the number of directories in the PATH,
 Task 4-path- Created a script that prints the list of environment variables using the code 'printenv'
 
 Task 5-local_variables- Created a script that prints the list of local variables in cluding environment variables and functions. Using the code 'set'
+
+Task 6-create_local_variables- Created a script that creates a local variable with name as BEST and value as school, using the code 'BEST="school"'
