@@ -20,3 +20,5 @@ Task 7-create_global_variable- Created a script that creates a global variable w
 Task 8-true_knowledge- Created a script that sums 128 and the value in TRUEKNOWLEDGE using the code 'echo $((128 + $TRUEKNOWLEDGE))'
 
 Task 9-divide_and_rule- Created a script that prints the result of dividing POWER and DIVIDE using the code 'echo $((POWER/DIVIDE))'
+
+Task 10-love_exponent_breath- Created a script that print the result of BREATH to the power of LOVE using the code 'echo $((BREATH**LOVE))'
