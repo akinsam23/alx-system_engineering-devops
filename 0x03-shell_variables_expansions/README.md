@@ -18,3 +18,5 @@ Task 6-create_local_variables- Created a script that creates a local variable wi
 Task 7-create_global_variable- Created a script that creates a global variable with  name as BEST and value as School, using the code 'export BEST="School"'
 
 Task 8-true_knowledge- Created a script that sums 128 and the value in TRUEKNOWLEDGE using the code 'echo $((128 + $TRUEKNOWLEDGE))'
+
+Task 9-divide_and_rule- Created a script that prints the result of dividing POWER and DIVIDE using the code 'echo $((POWER/DIVIDE))'
