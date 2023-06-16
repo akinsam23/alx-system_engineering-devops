@@ -6,3 +6,5 @@ Task 0-alias- Create a script that creates an alias whose name is ls and value i
 Task 1-hello_you create a script that displays the current user, using the code 'echo hello $USER'
 
 Task 2-path- Created a script that will add /action to the PATH, using the code export PATH=$PATH:/action
+
+Task 3-path- Created a script that counts the number of directories in the PATH, using the code "echo $PATH | tr -s ':' '\n' | wc -l'
