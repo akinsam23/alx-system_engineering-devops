@@ -22,3 +22,5 @@ Task 8-true_knowledge- Created a script that sums 128 and the value in TRUEKNOWL
 Task 9-divide_and_rule- Created a script that prints the result of dividing POWER and DIVIDE using the code 'echo $((POWER/DIVIDE))'
 
 Task 10-love_exponent_breath- Created a script that print the result of BREATH to the power of LOVE using the code 'echo $((BREATH**LOVE))'
+
+Task 11-binary_to_decimal- Created a script that prints the result of converting a number from base 2 to base 10
