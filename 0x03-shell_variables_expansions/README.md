@@ -33,4 +33,4 @@ Task 100-decimal_to_hexadecimal- Created a script that converts the decimal to h
 
 Task 101-rot13- Created a script that converts a text using the rot13 cipher, using the code 'tr 'A-Ma-mN-zn-z' 'N-Zn-zA-Ma-m' " 
 
-
+Task 101-odd- Created a script that prints every other line from the input, starting with the first line, using the code 'paste - - | cut -f1'
