@@ -31,3 +31,6 @@ Task 13-print_float - Created a script that prints the a number to two decimal p
 
 Task 100-decimal_to_hexadecimal- Created a script that converts the decimal to hexadecimal using the code. 'printf '%X' $DECIMAL'
 
+Task 101-rot13- Created a script that converts a text using the rot13 cipher, using the code 'tr 'A-Ma-mN-zn-z' 'N-Zn-zA-Ma-m' " 
+
+
