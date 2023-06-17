@@ -34,3 +34,5 @@ Task 100-decimal_to_hexadecimal- Created a script that converts the decimal to h
 Task 101-rot13- Created a script that converts a text using the rot13 cipher, using the code 'tr 'A-Ma-mN-zn-z' 'N-Zn-zA-Ma-m' " 
 
 Task 101-odd- Created a script that prints every other line from the input, starting with the first line, using the code 'paste - - | cut -f1'
+
+Task 103-water_and_stir created a script the that adds the two numbers stored in the environment variables WATER and STIR and prints the result, using the code " printf '%o\n' $(( 5#$( echo $WATER | tr water 01234) + 5#$( echo $STIR | tr stir. 01234 ) )) | tr 01234567 behlnort"
