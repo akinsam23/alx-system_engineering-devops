@@ -28,3 +28,6 @@ Task 11-binary_to_decimal- Created a script that prints the result of converting
 Task 12-combinations- created a script that prints the letters a to z twice as a double but excludes the letter oo using the code 'echo {a...z}{a...z}| tr " " "\n" | grep -v "oo"'
 
 Task 13-print_float - Created a script that prints the a number to two decimal places using the code 'printf "%.2f\n" $NUM'
+
+Task 100-decimal_to_hexadecimal- Created a script that converts the decimal to hexadecimal using the code. 'printf '%X' $DECIMAL'
+
