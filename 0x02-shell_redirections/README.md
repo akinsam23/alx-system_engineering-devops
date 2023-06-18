@@ -5,3 +5,11 @@ Task 0-hello_world - Created a script that prints "Hello, World" followed by a n
 Task 1-confused_smiley - created a script that displays a confused smiley "(Ôo)'. using the code' echo "\"(Ôo)'" '
 
 Task 2-hellofile- Created as script that Display the content of the /etc/passwd file. using the code 'cat /etc/passwd'
+
+Task 3-twofiles- Created a script that Display the content of /etc/passwd and /etc/hosts. Using the code 'cat /etc/passwd /etc/hosts'
+
+Task 4-lastlines- Created a script that Display the last 10 lines of /etc/passwd . Using the code 'tail /etc/passwd'
+
+Task 5-firstlines- Created a script that Display the first 10 lines of /etc/passwd. using the code 'head /etc/passwd'.
+
+Task 6-third _line- Created a script that displays the third line of the file iacta. Using the  code '
