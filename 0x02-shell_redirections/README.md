@@ -39,4 +39,10 @@ Task 17-hidethisword- Created a script that Display all the lines in the file /e
 
 Task 18-letteronly- Created a script that Display all lines of the file /etc/ssh/sshd_config starting with a letter. using the code ' cat /etc/ssh/sshd_config | grep "^[[:upper:]]" '
 
+Task 19-AZ- Created a script that Replace all characters A and c from input to Z and e respectively. using the code ' tr Ac Ze '
 
+Task 20-haigo- Created a script that removes all letters c and C from input. using the code ' tr -d cC '
+
+Task 21-reverse- Created a script that  reverse its input, suing the code ' rev '
+
+Task 22-users_and_homes- Created a script that displays all users and their home directories, sorted by users. using the code ' cat /etc/passwd | sort -k1 | cut -d ':' -f1,6 ' 
