@@ -12,4 +12,6 @@ Task 4-lastlines- Created a script that Display the last 10 lines of /etc/passwd
 
 Task 5-firstlines- Created a script that Display the first 10 lines of /etc/passwd. using the code 'head /etc/passwd'.
 
-Task 6-third _line- Created a script that displays the third line of the file iacta. Using the  code '
+Task 6-third _line- Created a script that displays the third line of the file iacta. Using the  code 'head -n 3 iacta | tail -1'
+
+Task 7-file- Created a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line. using the code ' echo 'Best School'  >> "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)"
