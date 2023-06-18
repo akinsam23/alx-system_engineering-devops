@@ -20,4 +20,7 @@ Task 8-cwd_state- Created a shell script that writes into the file ls_cwd_conten
 
 Task 9-duplicate_last_line- Created a shell script that duplicates the last line of the file iacta using the code 'tail -n 1 iacta >> iacta'
 
-Task 10
+Task 10-no_more_js- Created a shell script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
+using the code 'find . -name "*.js" -type f -delete'
+
+Task 11-directories- Created a script that counts the number of directories and sub-directories in the current directory. Using the code 'find . -mindepth 1 -type d | wc -l'
