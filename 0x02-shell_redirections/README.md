@@ -24,3 +24,19 @@ Task 10-no_more_js- Created a shell script that deletes all the regular files (n
 using the code 'find . -name "*.js" -type f -delete'
 
 Task 11-directories- Created a script that counts the number of directories and sub-directories in the current directory. Using the code 'find . -mindepth 1 -type d | wc -l'
+
+Task 12-newest_files- Created a script that displays the 10 newest files in the current directory. using the code 'ls -t1 | head'
+
+Task 13-unique- Created a script that takes a list of words as input and prints only words that appear exactly once, using the code 'sort | uniq -u'
+
+Task 14-findthatword- Created a script that Display lines containing the pattern “root” from the file /etc/passwd. using the code ' cat /etc/passwd | grep "root" '
+
+Task 15-countthatword- Created a script that Display the number of lines that contain the pattern “bin” in the file /etc/passwd. using the code ' cat /etc/passwd | grep "bin" | wc -l '
+
+Task 16-whatsnext- Created a script that Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd. using the code ' cat /etc/passwd | grep -A 3 "root" '
+
+Task 17-hidethisword- Created a script that Display all the lines in the file /etc/passwd that do not contain the pattern “bin”. using the code ' cat /etc/passwd | grep -v "bin" '
+
+Task 18-letteronly- Created a script that Display all lines of the file /etc/ssh/sshd_config starting with a letter. using the code ' cat /etc/ssh/sshd_config | grep "^[[:upper:]]" '
+
+
