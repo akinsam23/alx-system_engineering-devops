@@ -24,7 +24,6 @@ int print_sign(int n)
 	    _putchar('-');
 	    return (-1);
     }
-
     /*Default case if none of the conditionals are met*/
     return (0); /* or any other appropriate value*/
 }
