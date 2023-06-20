@@ -10,15 +10,19 @@
 int print_sign(int n)
 {
 	if (n > 0)
-	{	_putchar('+');	return (1);
+	{
+		_putchar('+');
+		return (1);
 	}
 	else if (n == 0)
 	{
-		_putchar('0');	return (0);
+		_putchar('0');
+		return (0);
 	}
 	else if (n < 0)
 	{
-		_putchar('-');	return (-1);
+		_putchar('-');
+		return (-1);
 	}
 	/*Default case if none of the conditionals are met*/
 	return (0); /* or any other appropriate value*/
